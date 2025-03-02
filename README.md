@@ -15,7 +15,7 @@
 
 - 👀 **Exploring:** UI/UX and Frontend Dev  
 - 🌱 **Learning:** React Native | CodeIgniter 4 | HTML & CSS  
-- 💡 **Building:** PRojects and cool web apps  
+- 💡 **Building:** Projects and cool web apps  
 - 💬 **Let's Chat:** About tech, design, or just life  
 - 💌 **Reach me at:** [mizukiyotaka@example.com](mailto:mizukiyotaka@example.com)  
 
