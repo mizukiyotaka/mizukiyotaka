@@ -51,7 +51,7 @@
 ---
 
 ### 🌐 Let's Connect
-💌 **Email:** [mizukiyotaka@example.com](mailto:mizukiyotaka@example.com)  
+💌 **Email:** [chrgonzaga@my.cspc.edu.ph](mailto:chrgonzaga@my.cspc.edu.ph)  
 💬 **Twitter:** [@mizukiyotaka](https://twitter.com/mizukiyotaka)  
 📚 **LinkedIn:** [mizukiyotaka](https://linkedin.com/in/mizukiyotaka)  
 
