@@ -17,7 +17,7 @@
 - 🌱 **Learning:** React Native | CodeIgniter 4 | HTML & CSS  
 - 💡 **Building:** Projects and cool web apps  
 - 💬 **Let's Chat:** About tech, design, or just life  
-- 💌 **Reach me at:** [mizukiyotaka@example.com](mailto:chrgonzaga@my.cspc.edu.ph)  
+- 💌 **Reach me at:** [chrgonzaga@my.cspc.edu.ph](mailto:chrgonzaga@my.cspc.edu.ph)  
 
 ---
 
